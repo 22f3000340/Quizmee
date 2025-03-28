@@ -1,0 +1,4 @@
+node_modules/
+instance/
+.venv/
+db_backups/
